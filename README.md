@@ -1,5 +1,4 @@
 
-- The main objective is to assist in forensic investigation and data preservation in cases of security incidents or other situations that require the analysis of an operating system.
 
 # Features
 
